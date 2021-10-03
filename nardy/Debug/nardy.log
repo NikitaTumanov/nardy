@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  nardy.cpp
+D:\study\nardy\nardy\nardy.cpp(132,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\study\nardy\nardy\nardy.cpp(310,6): warning C4101: a: неиспользованная локальная переменная
+D:\study\nardy\nardy\nardy.cpp(365,40): warning C4101: z: неиспользованная локальная переменная
+D:\study\nardy\nardy\nardy.cpp(365,36): warning C4101: r2: неиспользованная локальная переменная
+D:\study\nardy\nardy\nardy.cpp(365,32): warning C4101: r1: неиспользованная локальная переменная
+D:\study\nardy\nardy\nardy.cpp(365,15): warning C4101: t: неиспользованная локальная переменная
+D:\study\nardy\nardy\nardy.cpp(682,6): warning C4101: a: неиспользованная локальная переменная
+  nardy.vcxproj -> D:\study\nardy\Debug\nardy.exe
